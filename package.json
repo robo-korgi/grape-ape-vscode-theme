@@ -2,7 +2,7 @@
   "name": "grape-ape",
   "displayName": "Grape Ape",
   "description": "A funky dark purple and neon green theme, with somewhat low contrast for easy-on-the-eyes coding. A hybrid of the [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night) extension theme and the [Twilight Sparkle](https://themes.vscode.one/theme/nanoparsec/LQrfjHCe) color theme found at [https://themes.vscode.one](https://themes.vscode.one/theme/nanoparsec/LQrfjHCe)",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publisher": "robo-korgi",
   "repository": {
     "type": "git",

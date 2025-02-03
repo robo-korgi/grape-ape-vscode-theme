@@ -21,7 +21,8 @@ Grape Ape
 | ![terminal.ansiCyan](https://place-hold.it/15/00cccc/00cccc?text=+) `#00cccc` | Terminal Ansicyan |
 | ![terminal.ansiWhite](https://place-hold.it/15/ffffff/ffffff?text=+) `#ffffff` | Terminal Ansiwhite |
 | ![selection.background](https://place-hold.it/15/70448e/70448e?text=+) `#70448e` | Selection Background |
-| ![editorCursor.foreground](https://place-hold.it/15/db2ff4/db2ff4?text=+) `#db2ff4` | Editor cursor Foreground || ![#f7768e](https://place-hold.it/15/f7768e/f7768e?text=+) `#f7768e` | This keyword, HTML elements, Regex group symbol, CSS units, Terminal Red |
+| ![editorCursor.foreground](https://place-hold.it/15/db2ff4/db2ff4?text=+) `#db2ff4` | Editor cursor Foreground |
+| ![#f7768e](https://place-hold.it/15/f7768e/f7768e?text=+) `#f7768e` | This keyword, HTML elements, Regex group symbol, CSS units, Terminal Red |
 | ![#ff9e64](https://place-hold.it/15/ff9e64/ff9e64?text=+) `#ff9e64` | Number and Boolean constants, Language support constants |
 | ![#e0af68](https://place-hold.it/15/e0af68/e0af68?text=+) `#e0af68` | Function parameters, Regex character sets, Terminal Yellow |
 | ![#cfc9c2](https://place-hold.it/15/cfc9c2/cfc9c2?text=+) `#cfc9c2` | Parameters inside functions (semantic highlighting only) |
